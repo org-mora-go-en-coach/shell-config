@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "remotes": {
+    "lesson": { "version": "1.0.0", "entry": "https://mfe-lesson-org-mora-go-en-coach.vercel.app/1.0.0/remoteEntry.js", "apiBaseUrl": "https://api-lesson-org-mora-go-en-coach.vercel.app" },
+    "user": { "version": "1.0.0", "entry": "https://mfe-user-org-mora-go-en-coach.vercel.app/1.0.0/remoteEntry.js", "apiBaseUrl": "https://api-user-org-mora-go-en-coach.vercel.app" }
+  }
+}
+
