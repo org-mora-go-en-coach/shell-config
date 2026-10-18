@@ -2,8 +2,8 @@
   "version": "1.0.6",
   "remotes": {
     "layout": { "version": "1.0.2", "entry": "https://mfe-layout.vercel.app/remoteEntry.js?version=1.0.2&rev=a694fce" },
-    "lesson": { "version": "1.0.2", "entry": "https://mfe-lesson.vercel.app/remoteEntry.js?version=1.0.2&rev=e7a9dfd", "apiBaseUrl": "https://api-lesson-six.vercel.app/api/v1.0.2" },
-    "user": { "version": "1.0.4", "entry": "https://mfe-user.vercel.app/remoteEntry.js?version=1.0.4&rev=9603594", "apiBaseUrl": "https://api-user-zeta.vercel.app/api/v1.0.1" }
+    "lesson": { "version": "1.0.2", "entry": "https://mfe-lesson.vercel.app/remoteEntry.js?version=1.0.2&rev=e7a9dfd", "apiBaseUrl": "https://api-lesson-six.vercel.app" },
+    "user": { "version": "1.0.4", "entry": "https://mfe-user.vercel.app/remoteEntry.js?version=1.0.4&rev=9603594", "apiBaseUrl": "https://api-user-zeta.vercel.app" }
   }
 }
 
