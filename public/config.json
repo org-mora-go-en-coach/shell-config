@@ -1,5 +1,5 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "remotes": {
     "layout": { "version": "1.0.7", "entry": "https://mfe-layout.vercel.app/remoteEntry.js?version=1.0.7&rev=3515e21" },
     "lesson": { "version": "1.0.6", "entry": "https://mfe-lesson.vercel.app/remoteEntry.js?version=1.0.6&rev=02c2666", "apiBaseUrl": "https://api-lesson-six.vercel.app" },
