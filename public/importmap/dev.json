@@ -1,11 +1,11 @@
 {
   "mfe": {
-    "layout": "1.0.7",
-    "lesson": "1.0.6",
-    "user": "1.0.8"
+    "mfe-layout": "1.0.7",
+    "mfe-lesson": "1.0.6",
+    "mfe-user": "1.0.8"
   },
   "api": {
-    "lesson": "1.0.4",
-    "user": "1.0.3"
+    "api-lesson": "1.0.4",
+    "api-user": "1.0.3"
   }
 }
